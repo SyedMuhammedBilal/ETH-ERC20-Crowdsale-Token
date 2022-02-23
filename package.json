@@ -1,0 +1,17 @@
+{
+  "name": "crowdsale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "chai": "^4.3.6",
+    "openzeppelin-solidity": "2.5.1",
+    "truffle": "^5.5.1"
+  }
+}
